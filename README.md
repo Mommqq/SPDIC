@@ -1,7 +1,7 @@
 # SPDIC
 
 **Perceptual Distributed Image Compression via Controlled Stochastic Reconstruction**  
-Guojun Xu, Jianwen Xiang, Yaning Xie, and Junwei Zhou  
+Guojun Xu, Jianwen Xiang, Yaning Xie, Yanchao Yang, and Junwei Zhou  
 School of Artificial Intelligence
 
 [Project page](https://mommqq.github.io/SPDIC-Demo/)
